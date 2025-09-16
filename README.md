@@ -1,2 +1,2 @@
 # My_project-_with_video
-Here are some questions answered that I was asked to know the notebook
+Here is a brief video of my project, the data set of the project and the PDF copy of the project is presented
